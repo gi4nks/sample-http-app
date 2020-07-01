@@ -1,0 +1,13 @@
+{
+  "name": "sample-http",
+  "version": "1.0.0",
+  "description": "Node.js sample http",
+  "author": "gi4nks <gi4nks@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
